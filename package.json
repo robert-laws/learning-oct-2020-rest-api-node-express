@@ -11,6 +11,10 @@
     "express"
   ],
   "author": "Robert Laws",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/robert-laws/learning-oct-2020-rest-api-node-express.git"
+  },
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
